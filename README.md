@@ -1,57 +1,72 @@
-👨‍💻 Fabio Rieker
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fabio Rieker – Backend & Fullstack Developer in Progress</title>
+</head>
+<body>
 
-Backend & Fullstack Developer in Progress DAM student with a strong background in systems, networks, and cloud. I enjoy building functional solutions, automating processes, and learning technologies that solve real-world problems.
-🧭 About Me
+  <h1>👨‍💻 Fabio Rieker</h1>
+  <p><strong>Backend & Fullstack Developer in Progress</strong><br>
+  DAM student with a strong background in systems, networks, and cloud. I enjoy building functional solutions, automating processes, and learning technologies that solve real-world problems.</p>
 
-    🎓 Completed SMR (Microcomputer Systems and Networks) and currently studying DAM (Multiplatform Application Development)
+  <section>
+    <h2>🧭 About Me</h2>
+    <ul>
+      <li>🎓 Completed SMR (Microcomputer Systems and Networks) and currently studying DAM (Multiplatform Application Development)</li>
+      <li>🛠 Both programs are part of Spain’s vocational training system (<em>Formación Profesional</em>), focused on practical, job-ready technical education</li>
+      <li>🐧 Experience in technical support, networking, and Linux system administration</li>
+      <li>☁️ Certified in AWS fundamentals and cybersecurity</li>
+      <li>🔍 Focused on backend development, automation, and multiplatform applications</li>
+    </ul>
+  </section>
 
-    🛠 Both programs are part of Spain’s vocational training system (Formación Profesional), focused on practical, job-ready technical education
+  <section>
+    <h2>🧪 How I'm Learning</h2>
+    <p>I'm starting my journey in software development, applying my technical support background and automation skills. I learn by doing—working on GitHub projects and exploring Linux environments where I focus on backend, scripting, and application development.</p>
+    <ul>
+      <li>Learning Java and Python to build functional applications</li>
+      <li>Understanding relational databases and how to interact with them</li>
+      <li>Using Git and GitHub to organize my projects and track progress</li>
+      <li>Exploring AWS fundamentals and security best practices</li>
+      <li>Automating simple tasks with Bash scripts</li>
+    </ul>
+  </section>
 
-    🐧 Experience in technical support, networking, and Linux system administration
+  <section>
+    <h2>🎯 Technical Goals</h2>
+    <ul>
+      <li>Upload projects that reflect my growth as a backend developer</li>
+      <li>Automate tasks and improve workflows with reusable scripts</li>
+      <li>Apply backend technologies in real-world and collaborative environments</li>
+      <li>Improve my technical English and earn a B2 certification</li>
+    </ul>
+  </section>
 
-    ☁️ Certified in AWS fundamentals and cybersecurity
+  <section>
+    <h2>📚 Education</h2>
+    <ul>
+      <li>💻 SMR Technician – Vocational training in Microcomputer Systems and Networks (Graduated with honors)</li>
+      <li>📱 DAM – Higher vocational training in Multiplatform Application Development (Currently enrolled)</li>
+      <li>☁️ AWS Academy Cloud Foundations – 30h</li>
+      <li>🔐 Cybersecurity for Everyone – University of Maryland</li>
+    </ul>
+  </section>
 
-    🔍 Focused on backend development, automation, and multiplatform applications
+  <section>
+    <h2>🤝 Let's Collaborate</h2>
+    <p>I'm open to collaborating on backend, automation, or educational projects. If you're building something interesting, feel free to reach out!</p>
+  </section>
 
-🧪 How I'm Learning
+  <section>
+    <h2>📬 Contact</h2>
+    <ul>
+      <li>📧 fabiorieker@gmail.com</li>
+      <li>📍 Madrid, Spain</li>
+      <li>🔗 <a href="https://www.linkedin.com">LinkedIn</a> (add your real link)</li>
+      <li>🌐 Portfolio (if you have one, I’ll help you link it)</li>
+    </ul>
+  </section>
 
-I'm starting my journey in software development, applying my technical support background and automation skills. I learn by doing—working on GitHub projects and exploring Linux environments where I focus on backend, scripting, and application development.
-
-Currently working on:
-
-    Learning Java and Python to build functional applications
-
-    Understanding relational databases and how to interact with them
-
-    Using Git and GitHub to organize my projects and track progress
-
-    Exploring AWS fundamentals and security best practices
-
-    Automating simple tasks with Bash scripts
-
-🎯 Technical Goals
-
-    Upload projects that reflect my growth as a backend developer
-
-    Automate tasks and improve workflows with reusable scripts
-
-    Apply backend technologies in real-world and collaborative environments
-
-    Improve my technical English and earn a B2 certification
-
-📚 Education
-
-    💻 SMR Technician – Vocational training in Microcomputer Systems and Networks (Graduated with honors)
-
-    📱 DAM – Higher vocational training in Multiplatform Application Development (Currently enrolled)
-
-    ☁️ AWS Academy Cloud Foundations – 30h
-
-    🔐 Cybersecurity for Everyone – University of Maryland
-
-🤝 Let's Collaborate
-
-I'm open to collaborating on backend, automation, or educational projects. If you're building something interesting, feel free to reach out!
-📬 Contact
-
-    📧 fabiorieker@gmail.com
+</body>
+</html>
