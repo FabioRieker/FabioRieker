@@ -52,3 +52,6 @@ Currently working on:
 🤝 Let's Collaborate
 
 I'm open to collaborating on backend, automation, or educational projects. If you're building something interesting, feel free to reach out!
+📬 Contact
+
+    📧 fabiorieker@gmail.com
