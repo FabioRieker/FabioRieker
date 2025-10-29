@@ -63,8 +63,7 @@
     <ul>
       <li>📧 fabiorieker@gmail.com</li>
       <li>📍 Madrid, Spain</li>
-      <li>🔗 <a href="https://www.linkedin.com">LinkedIn</a> (add your real link)</li>
-      <li>🌐 Portfolio (if you have one, I’ll help you link it)</li>
+      <li>🔗 <a href="[https://www.linkedin.com](https://www.linkedin.com/feed/)">LinkedIn</a> </li>
     </ul>
   </section>
 
