@@ -1,31 +1,54 @@
-# 👨‍💻 Fabio Rieker
+👨‍💻 Fabio Rieker
 
-**Backend & Fullstack Developer in Progress**  
-Estudiante de DAM con base sólida en sistemas, redes y cloud. Me gusta construir soluciones funcionales, automatizar procesos y aprender tecnologías que resuelvan problemas reales.
+Backend & Fullstack Developer in Progress DAM student with a strong background in systems, networks, and cloud. I enjoy building functional solutions, automating processes, and learning technologies that solve real-world problems.
+🧭 About Me
 
----
+    🎓 Completed SMR (Microcomputer Systems and Networks) and currently studying DAM (Multiplatform Application Development)
 
-## 🧭 Sobre mí
+    🛠 Both programs are part of Spain’s vocational training system (Formación Profesional), focused on practical, job-ready technical education
 
-- 🎓 Formación técnica en SMR (matrícula de honor) y actualmente cursando DAM  
-- 🛠 Experiencia en soporte técnico, redes y administración de sistemas Linux  
-- ☁️ Certificado en fundamentos de AWS y ciberseguridad  
-- 🔍 Enfocado en backend, automatización y desarrollo de aplicaciones multiplataforma  
+    🐧 Experience in technical support, networking, and Linux system administration
 
----
+    ☁️ Certified in AWS fundamentals and cybersecurity
 
-🧪 Cómo estoy aprendiendo
+    🔍 Focused on backend development, automation, and multiplatform applications
 
-Estoy empezando mi camino en el desarrollo de software, con especial interés en el backend y la automatización. Me gusta entender cómo funcionan los sistemas por dentro, y por eso trabajo mucho en entornos Linux, donde aprendo a configurar, probar y resolver problemas desde la terminal.
+🧪 How I'm Learning
 
-Ahora mismo estoy centrado en:
+I'm starting my journey in software development, applying my technical support background and automation skills. I learn by doing—working on GitHub projects and exploring Linux environments where I focus on backend, scripting, and application development.
 
-    Aprender Java y Python para crear aplicaciones funcionales
+Currently working on:
 
-    Entender cómo se estructuran las bases de datos y cómo interactuar con ellas
+    Learning Java and Python to build functional applications
 
-    Usar Git y GitHub para organizar mis proyectos y seguir mi progreso
+    Understanding relational databases and how to interact with them
 
-    Explorar servicios en la nube como AWS y buenas prácticas de seguridad
+    Using Git and GitHub to organize my projects and track progress
 
-    Automatizar tareas sencillas con scripts en Bash
+    Exploring AWS fundamentals and security best practices
+
+    Automating simple tasks with Bash scripts
+
+🎯 Technical Goals
+
+    Upload projects that reflect my growth as a backend developer
+
+    Automate tasks and improve workflows with reusable scripts
+
+    Apply backend technologies in real-world and collaborative environments
+
+    Improve my technical English and earn a B2 certification
+
+📚 Education
+
+    💻 SMR Technician – Vocational training in Microcomputer Systems and Networks (Graduated with honors)
+
+    📱 DAM – Higher vocational training in Multiplatform Application Development (Currently enrolled)
+
+    ☁️ AWS Academy Cloud Foundations – 30h
+
+    🔐 Cybersecurity for Everyone – University of Maryland
+
+🤝 Let's Collaborate
+
+I'm open to collaborating on backend, automation, or educational projects. If you're building something interesting, feel free to reach out!
