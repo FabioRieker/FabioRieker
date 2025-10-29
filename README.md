@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Fabio Rieker – Backend & Fullstack Developer in Progress</title>
 </head>
 <body>
 
@@ -52,15 +51,6 @@
       <li>🔐 Cybersecurity for Everyone – University of Maryland</li>
     </ul>
   </section>
-
-  <section>
-    <h2>🤝 Let's Collaborate</h2>
-    <p>I'm open to collaborating on backend, automation, or educational projects. If you're building something interesting, feel free to reach out!</p>
-  </section>
-
-  <section>
-    <h2>📬 Contact</h2>
-    <ul>
       <li>📧 fabiorieker@gmail.com</li>
       <li>📍 Madrid, Spain</li>
       <li>🔗 <a href="[https://www.linkedin.com](https://www.linkedin.com/feed/)">LinkedIn</a> </li>
