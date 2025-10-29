@@ -14,10 +14,18 @@ Estudiante de DAM con base sólida en sistemas, redes y cloud. Me gusta construi
 
 ---
 
-## 🧰 Stack actual
+🧪 Cómo estoy aprendiendo
 
-```txt
-Lenguajes: Java · Python · SQL · Bash  
-Backend: MySQL · SQLite · APIs REST · AWS EC2/S3  
-Frontend: HTML · CSS · JS básico  
-DevOps: Git · GitHub · Linux · Automatización de scripts  
+Estoy empezando mi camino en el desarrollo de software, con especial interés en el backend y la automatización. Me gusta entender cómo funcionan los sistemas por dentro, y por eso trabajo mucho en entornos Linux, donde aprendo a configurar, probar y resolver problemas desde la terminal.
+
+Ahora mismo estoy centrado en:
+
+    Aprender Java y Python para crear aplicaciones funcionales
+
+    Entender cómo se estructuran las bases de datos y cómo interactuar con ellas
+
+    Usar Git y GitHub para organizar mis proyectos y seguir mi progreso
+
+    Explorar servicios en la nube como AWS y buenas prácticas de seguridad
+
+    Automatizar tareas sencillas con scripts en Bash
